@@ -1,0 +1,9 @@
+// Create subfolder to split sass files
+// @import "subfolder/subfile";
+
+@import "reset/reset";
+@import "canvas/canvas";
+
+body {
+  min-height: 100vh;
+}
